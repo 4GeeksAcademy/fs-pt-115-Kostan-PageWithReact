@@ -23,6 +23,9 @@ export const Navbar = () => {
          <li class="nav-item">
           <a class="nav-link" href="#">Contacto</a>
         </li>
+        <li class="nav-item">
+          <button class="btn btn-primary btn-sm mt-1" type="button">Registrarse o Iniciar sesión</button>
+        </li>
       </ul>
     </div>
   </div>
