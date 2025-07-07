@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#root {
+    background-image: url("https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/uploads/d698227bbc6ce7dc3cb77a086085274a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
