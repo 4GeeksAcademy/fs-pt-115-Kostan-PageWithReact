@@ -37,7 +37,7 @@ const Home = () => {
 				<Cartas
 				imagen="https://content.warframe.com/PublicExport/Lotus/Interface/Icons/StoreIcons/Warframes/Volt.png!00_NFbM6393XHXjHpCIDm0Qyw"
 				nombre="Volt"
-				descripcion="Volt es un warframe en Warframe conocido por su dominio de la electricidad y su versatilidad en combate."
+				descripcion="Volt es conocido por su dominio de la electricidad y su versatilidad en combate."
 				info="https://www.warframe.com/es/game/warframes/volt"
 
 				/>
