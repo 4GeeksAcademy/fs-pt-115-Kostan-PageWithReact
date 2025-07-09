@@ -3,6 +3,8 @@ export const Navbar = () => {
         <nav class="navbar navbar-expand-lg navbar-light bg-warning">
   <div class="container-fluid">
 
+    <img src="https://toppng.com/uploads/preview/warframe-logo-115629705814dk5whadj8.png" style={{height: "36px", backgroundColor: "yellow"}} className="mx-2 "></img>
+
     <a class="navbar-brand" href="https://www.warframe.com/game/about">WARFRAME</a>
     
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
