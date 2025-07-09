@@ -11,10 +11,9 @@ import { Footer } from "./Footer";
 //create your first component
 const Home = () => {
 	return (
-		<div calssName="container">
+		<>
 			<div>
 				<Navbar/>
-				<br></br>
 				<Portada/>
 			</div>
 
@@ -44,7 +43,7 @@ const Home = () => {
 			</div>
 
 			<Footer/>
-		</div>
+		</>
 	);
 };
 
