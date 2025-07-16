@@ -17,7 +17,7 @@ const Home = () => {
 				<Portada/>
 			</div>
 
-			<div className="row">
+			<div className="row mb-3">
 				<Cartas
 					imagen="https://content.warframe.com/PublicExport/Lotus/Interface/Icons/StoreIcons/Warframes/Excalibur.png!00_rogoG1Uk9x46s7X-HwTx1A"
 					nombre="Excalibur"
@@ -41,8 +41,10 @@ const Home = () => {
 
 				/>
 			</div>
-
+			<div className="position-absolute bottom-0 w-100">
 			<Footer/>
+
+			</div>
 		</>
 	);
 };

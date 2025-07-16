@@ -19,3 +19,7 @@ body {
     background-color: transparent !important;
      
 }
+#root{
+    position: relative;
+    height: 100%;
+}
